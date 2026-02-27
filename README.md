@@ -1,25 +1,25 @@
 # Introduction to the DOM
 
-🚀 **A modern React application demonstrating DOM manipulation and interactive web development**
+**A modern React application demonstrating DOM manipulation and interactive web development**
 
 [![React](https://img.shields.io/badge/React-19.2.0-blue.svg)](https://reactjs.org/)
 [![Vite](https://img.shields.io/badge/Vite-7.3.1-646CFF.svg)](https://vitejs.dev/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-## 📋 Overview
+## Overview
 
 This project serves as a comprehensive introduction to the Document Object Model (DOM) using modern React patterns. Built with Vite for lightning-fast development and optimized production builds.
 
-## ✨ Features
+## Features
 
-- ⚡ **Lightning Fast** - Powered by Vite's optimized build tooling
-- 🔥 **Hot Module Replacement** - Instant feedback during development
-- 🎯 **Modern React** - Leveraging React 19's latest features
-- 🧹 **Clean Code** - ESLint configuration for code quality
-- 📱 **Responsive Design** - Mobile-first approach
-- 🎨 **Modern Styling** - CSS with best practices
+- **Lightning Fast** - Powered by Vite's optimised build tooling
+- **Hot Module Replacement** - Instant feedback during development
+- **Modern React** - Leveraging React 19's latest features
+- **Clean Code** - ESLint configuration for code quality
+- **Responsive Design** - Mobile-first approach
+- **Modern Styling** - CSS with best practices
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Technology | Version | Purpose |
 |------------|---------|---------|
@@ -28,7 +28,7 @@ This project serves as a comprehensive introduction to the Document Object Model
 | [ESLint](https://eslint.org/) | 9.39.1 | Code Linting |
 | [React DOM](https://reactjs.org/docs/react-dom.html) | 19.2.0 | DOM Rendering |
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Prerequisites
 
@@ -56,7 +56,7 @@ This project serves as a comprehensive introduction to the Document Object Model
 4. **Open your browser**
    Navigate to `http://localhost:5173`
 
-## 📜 Available Scripts
+## Available Scripts
 
 | Script | Command | Description |
 |--------|---------|-------------|
@@ -65,7 +65,7 @@ This project serves as a comprehensive introduction to the Document Object Model
 | `preview` | `npm run preview` | Preview production build locally |
 | `lint` | `npm run lint` | Run ESLint code analysis |
 
-## 🏗️ Project Structure
+## Project Structure
 
 ```
 introduction-to-the-dom/
@@ -85,7 +85,7 @@ introduction-to-the-dom/
 └── vite.config.js        # Vite configuration
 ```
 
-## 🎯 Learning Objectives
+## Learning Objectives
 
 This project demonstrates:
 
@@ -95,7 +95,7 @@ This project demonstrates:
 - **Event Handling** - Responding to user interactions
 - **Modern Development** - Using Vite for fast development cycles
 
-## 🔧 Development
+## Development
 
 ### Code Quality
 
@@ -111,7 +111,7 @@ This project uses ESLint with the following configurations:
 - Safari >= 14
 - Edge >= 88
 
-## 🚀 Deployment
+## Deployment
 
 ### Build for Production
 
@@ -127,7 +127,7 @@ The build artifacts will be stored in the `dist/` directory.
 npm run preview
 ```
 
-## 🤝 Contributing
+## Contributing
 
 1. Fork the repository
 2. Create your feature branch (`git checkout -b feature/amazing-feature`)
@@ -135,17 +135,17 @@ npm run preview
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📝 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - [React Team](https://reactjs.org/) for the amazing framework
 - [Vite Team](https://vitejs.dev/) for the blazing fast build tool
 - The open-source community for inspiration and tools
 
-## 📞 Support
+## Support
 
 If you have any questions or need help, feel free to:
 - Open an [issue](https://github.com/Interlaken0/introduction-to-the-dom/issues)
@@ -153,4 +153,4 @@ If you have any questions or need help, feel free to:
 
 ---
 
-**Happy Coding! 🎉**
+**Happy Coding!**
