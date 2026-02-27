@@ -1,5 +1,7 @@
 # STARI Framework Analysis
 
+**STARI** - **S**ituation, **T**ask, **A**ction, **R**esult, **I**mpact
+
 ## Situation
 
 The modern web development landscape presents a significant challenge for beginners seeking to understand the Document Object Model (DOM). While React has revolutionized how we build user interfaces, the abstraction layer it provides often obscures fundamental DOM concepts that are crucial for comprehensive web development literacy. Educational resources typically fall into two categories: overly simplistic tutorials that don't scale, or complex documentation that assumes prior knowledge.
